@@ -1,0 +1,32 @@
+Job:
+  - Title
+  - location
+  - Job type
+  - Description
+  - Published at
+  - Vacancy
+  - Salary
+  - Category
+  - Experience
+
+  - Apply Job
+  - Post Job
+
+
+Blog:
+  - Title
+  - Description
+  - Created-at
+  - Category
+  - Tags
+  - Author
+
+  - Search
+  - Comment
+  - Recent Posts
+
+
+Contact
+Home
+
+Login
